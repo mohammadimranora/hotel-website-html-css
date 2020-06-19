@@ -1,0 +1,46 @@
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 10px;
+    border-bottom: 1px solid grey;
+}
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+}
+
+.box {
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-right,
+#about-info .info-left {
+    float: none;
+    width: 100%;
+}
+
+#navbar .info-right {
+    margin-top: 30px;
+}
+
+.l-heading {
+    text-align: center;
+}
+
+.py-3 {
+    padding: 30px 10px;
+}
